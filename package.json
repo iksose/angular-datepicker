@@ -1,5 +1,8 @@
 {
   "name": "angularjs-datepicker",
+  "jspm": {
+    "main": "src/dist/angular-datepicker.min.js"
+  },
   "version": "0.2.5",
   "description": "A datepicker directive for angularjs.",
   "homepage": "http://720kb.github.io/angular-datepicker",
